@@ -1,0 +1,7 @@
+[name]
+fname=cc
+Fname=coco
+
+[url]
+baidu=www.baidu.com
+tecent=www.tecent.com
